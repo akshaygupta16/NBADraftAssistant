@@ -1,6 +1,6 @@
 #                                                         NBA Draft Assistant
 
-Team Members : AKSHAY GUTPA
+Team Members : AKSHAY GUPTA
 
 ## Predicting if a NBA draft candidate would be successful in the NBA
 Based on the performance of a player in college, this model will predict whether or not a player would be successful in the NBA.
