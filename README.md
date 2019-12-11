@@ -12,6 +12,13 @@ In precise terms, a player is successful in the NBA if he achieves one of the fo
  - NBA Most Valueable Player
  - Defensive Player of the year
  - NBA Sixth Man of the year
+ 
+## Data Source
+There was no pre-existing data for this purpose, so the dataset was built by scraping three different websites and merging the pulled data.
+.<br>
+<a href="https://github.com/akshaygupta16/sportsense/blob/master/ScoutingModelv3.ipynb">Click here to open the notebook created for building the dataset</a>
+<br>
+<br>
 
 
 ## This project Applies the CRISP-DM Process
