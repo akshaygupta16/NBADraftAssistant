@@ -40,3 +40,8 @@ The accuracy scores of all the models applied are compared to find out that logi
 
 ### Conclusion
 Given the college statisitcs of a player and the position he played on the team (Forward/Center/Guard), this model predicts wether or not the player would be successful in the NBA with an accuracy of 0.92
+
+### Challenges faced
+The biggest challenge faced in this task was procurring the data. 
+Some Datasets from sources were tried on earlier, but the data quality turned out to be extremely poor. The data was even incorrect in some cases.
+Due to the unavailability of pre existing data, the dataset had to be built and it was done using web scrapping three websites and merging the pulled data. 
